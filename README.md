@@ -1,6 +1,6 @@
 # Laboratorio lenguajes y compiladores 2025
 
-En este proyecto implementamos la semnatica denotacional de un [lenguaje imperativo simple con fallas](lab1.hs) y la de un [lenguaje imperativo simple con fallas + IO](Lab2.hs).
+En este proyecto implementamos la semantica denotacional de un [lenguaje imperativo simple con fallas](lab1.hs) y la de un [lenguaje imperativo simple con fallas + IO](Lab2.hs).
 
 ## Ejemplos
 
